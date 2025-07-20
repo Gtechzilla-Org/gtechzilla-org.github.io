@@ -568,11 +568,17 @@ h3 {
 }
 
 .banner-bg-one {
-    background-image: url(../img/banner/cashbox-box.jpg);
+    background-image: url(../img/banner/company.jpg);
 }
 
 .banner-bg-ba1 {
-    background-image: url(../img/banner/euro-1353420_1280.jpg);
+    background-image: url(../img/banner/airplane-8892881_1280.jpg);
+}
+.banner-bg-ba1-mineral {
+    background-image: url(../img/banner/gold_banner.jpg);
+}
+.banner-bg-ba1-food {
+    background-image: url(../img/banner/corn.jpg);
 }
 
 /* .banner-bg-ba2 {
@@ -580,7 +586,13 @@ h3 {
 } */
 
 .banner-bg-co1 {
-    background-image: url(../img/banner/handshake-3100563_1920.jpg);
+    background-image: url(../img/banner/ai-generated-9087011_1280.jpg);
+}
+.banner-bg-co1-mineral {
+    background-image: url(../img/banner/diamond_banner.jpg);
+}
+.banner-bg-co1-food {
+    background-image: url(../img/banner/sugar_banner.jpg);
 }
 
 .banner-bg-co2 {
@@ -596,19 +608,30 @@ h3 {
 }
 
 .banner-bg-di3 {
-    background-image: url(../img/banner/di3.jpg);
+    background-image: url(../img/banner/airfreight.jpg);
 }
-
+.banner-bg-di3-mineral {
+    background-image: url(../img/banner/copper.jpg);
+}
+.banner-bg-di3-food {
+    background-image: url(../img/banner/rice_banner.jpg);
+}
 .banner-bg-three {
-    background-image: url(../img/banner/img4.jpg);
-} */
+    background-image: url(../img/banner/cereals.jpg);
+} 
+.banner-bg-three-mineral {
+    background-image: url(../img/banner/scrap_banner.jpg);
+} 
+.banner-bg-three-food {
+    background-image: url(../img/banner/soya_banner.jpg);
+} 
 
-/* .banner-bg-two {
-    background-image: url(../img/banner/img4.jpg);
+.banner-bg-two {
+    background-image: url(../img/banner/minerals.jpg);
 }
 
 .banner-bg-four {
-    background-image: url(../img/banner/img6.jpg);
+    background-image: url(../img/banner/container-8838895_1280.jpg);
 }
 
 .banner-bg-five {
@@ -616,7 +639,7 @@ h3 {
 }
 
 .banner-bg-six {
-    background-image: url(../img/banner/img3.jpg);
+    background-image: url(../img/banner/ocean_freight.jpg);
 }
 
 .banner-bg-seven {
@@ -2333,7 +2356,7 @@ h3 {
 }
 
 .facilities-section .facilities-img-about {
-    background-image: url(../img/34.jpg);
+    background-image: url(../img/deal.jpg);
     background-position: center center;
     background-size: cover;
     height: 100%;
@@ -2341,7 +2364,7 @@ h3 {
 }
 
 .facilities-section .facilities-img-about1 {
-    background-image: url(../img/17.jpg);
+    background-image: url(../img/team.jpg);
     background-position: center center;
     background-size: cover;
     height: 100%;
